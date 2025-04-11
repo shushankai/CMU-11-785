@@ -174,5 +174,8 @@ cython_debug/
 .pypirc
 
 
-# original files
+# original files and personal files 
 org
+data
+wandb
+*.pth
